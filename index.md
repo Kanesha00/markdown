@@ -2,4 +2,5 @@
 
 ## No rain today
 
-First markdown page
+First markdown page.
+This text is *italicized*. And this is **strong**.
